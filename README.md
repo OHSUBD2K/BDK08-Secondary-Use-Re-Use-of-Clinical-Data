@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
+
 
 ## Module Number: BDK08
 
@@ -32,7 +32,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK08-1.pptx
 
-Unit 1 Audio: BDK08-1.mp3
+Unit 1 Audio: BDK08-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK08-1\_resources.pdf
 
@@ -40,7 +40,7 @@ Unit 1 Resources: BDK08-1\_resources.pdf
 
 Unit 2 Slides: BDK08-2.pptx
 
-Unit 2 Audio: BDK08-2.mp3
+Unit 2 Audio: BDK08-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK08-2\_resources.pdf
 
@@ -48,13 +48,13 @@ Unit 2 Resources: BDK08-2\_resources.pdf
 
 Unit 3 Slides: BDK08-3.pptx
 
-Unit 3 Audio: BDK08-3.mp3
+Unit 3 Audio: BDK08-3.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Unit 4: Examples of the EHR
 
 Unit 4 Slides: BDK08-4.pptx
 
-Unit 4 Audio: BDK08-4.mp3
+Unit 4 Audio: BDK08-4.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 4 Video Tour of VistA: BDK08-4\_movie.mp4
 
@@ -64,7 +64,7 @@ Unit 4 Resources: BDK08-4\_resources.pdf
 
 Unit 5 Slides: BDK08-5.pptx
 
-Unit 5 Audio: BDK08-5.mp3
+Unit 5 Audio: BDK08-5.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Module Supplemental Materials
 
