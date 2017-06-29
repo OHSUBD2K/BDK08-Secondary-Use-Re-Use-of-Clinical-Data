@@ -36,6 +36,8 @@ Unit 1 Audio: BDK08-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK08-1\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK08-1/presentation_html5.html)
+
 ### Unit 2: Sources and Types of Clinical Data
 
 Unit 2 Slides: BDK08-2.pptx
@@ -44,11 +46,15 @@ Unit 2 Audio: BDK08-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK08-2\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK08-2/presentation_html5.html)
+
 ### Unit 3: History and Modern-Day Structure and Function of the EHR
 
 Unit 3 Slides: BDK08-3.pptx
 
 Unit 3 Audio: BDK08-3.mp3 - Full lecture, Audio File - Individual Slides
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK08-3/presentation_html5.html)
 
 ### Unit 4: Examples of the EHR
 
@@ -60,11 +66,15 @@ Unit 4 Video Tour of VistA: BDK08-4\_movie.mp4
 
 Unit 4 Resources: BDK08-4\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK08-4/presentation_html5.html)
+
 ### Unit 5: Secondary Use of EHR Data
 
 Unit 5 Slides: BDK08-5.pptx
 
 Unit 5 Audio: BDK08-5.mp3 - Full lecture, Audio File - Individual Slides
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK08-5/presentation_html5.html)
 
 ### Module Supplemental Materials
 
@@ -88,6 +98,6 @@ As a result, the materials provided here have limited imagery as we intend for t
 
 **Where do I find images?** There are several sources that might be available to you.  Depending on how you plan on using the BD2K modules, you may have more flexibility to locate images.  Once you have identify the license that you wish to use, you can search with those restrictions in mind.
 
-- Google Images:  Head to Google Advanced Image Search (http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
+- Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
